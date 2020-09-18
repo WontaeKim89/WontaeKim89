@@ -1,4 +1,4 @@
-### Hi there 👋
+### 천천히, 꾸준히
 
 <!--
 **WontaeKim89/WontaeKim89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
