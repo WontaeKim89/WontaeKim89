@@ -18,11 +18,11 @@
 
 ## Technology.
 
-- Designing and operating Multi-Agent systems tailored to domain requirements. Production experience across finance, ERP, insurance, and code generation.
-- Optimizing Agent performance through vertical data analysis and domain-specific model Fine-Tuning.
-- Building and shipping container-based CI/CD pipelines for private environments.
-- Architecting AI service backends on Azure Cloud for enterprise-grade Agent delivery.
-- Expanding coverage into IaC and Observability in production environments.
+- Multi-Agent systems design across finance, ERP, insurance, and code generation.
+- Domain-specific model Fine-Tuning and retrieval optimization.
+- Container-based CI/CD pipelines for private environments.
+- Azure Cloud AI service backend architecture.
+- Expanding into IaC and Observability in production.
 
 ---
 
@@ -37,10 +37,10 @@
 ## Careers.
 
 - [KT](https://www.kt.com/) AI Engineer (2025.04 - Present)
-  - Insurance Sales Assistant Agent — Multi-Agent system for sales support (6 mos)
+  - Insurance Sales Assistant Agent — Multi-Agent for sales support (6 mos)
 - [Douzone](https://www.douzone.com/intro/company.jsp) AI Engineer (2019.10 - 2025.04 · 5 yrs 7 mos)
-  - [OneAI](https://www.douzone.com/product/oneai.jsp) — Enterprise AI assistant integrated with ERP/Groupware for document automation and RAG-based productivity (1 yr 6 mos)
-  - ERP Accounting Code Prediction — ML model development, MLOps pipeline, and production operation (1 yr)
+  - [OneAI](https://www.douzone.com/product/oneai.jsp) — ERP/Groupware AI assistant with RAG-based automation (1 yr 6 mos)
+  - ERP Accounting Code Prediction — ML model dev, MLOps, and production ops (1 yr)
 
 ---
 
