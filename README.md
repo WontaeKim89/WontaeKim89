@@ -32,6 +32,10 @@ class WontaeKim:
         """버티컬 데이터 분석 및 특화 모델 Fine-Tuning을 통한 검색 성능 고도화."""
         ...
 
+    def ship(self, env="private"):
+        """컨테이너 기반 CI/CD 파이프라인 구성 및 배포."""
+        ...
+
     def current_quest(self):
         return [
             "도메인 특화 Multi-Agent 오케스트레이션 설계",
@@ -40,7 +44,7 @@ class WontaeKim:
         ]
 
     def side_quest(self):
-        return "Cloud Infra & DevOps — Production 환경에서 컨테이너 배포, IaC, Observability를 적용하며 커버리지 확장 중"
+        return "Cloud Infra & DevOps — Production 환경에서 IaC, Observability를 적용하며 커버리지 확장 중"
 ```
 
 ---
