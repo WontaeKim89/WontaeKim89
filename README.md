@@ -28,14 +28,8 @@ class WontaeKim:
         보험, ERP, 코드생성 등 다양한 도메인에서 production 경험."""
         ...
 
-    def build_rag(self, retriever: str, embedding_model=None):
-        """Hybrid Search, Custom Embedding(LoRA), Tool RAG 등
-        도메인 특성에 따라 검색 전략을 직접 설계합니다."""
-        ...
-
-    def deploy(self, env="private"):
-        """Azure 리소스를 조합한 Private VNet 환경 구축부터
-        컨테이너 패키징, IaC, Observability 세팅까지 직접 수행합니다."""
+    def optimize_retrieval(self, domain_data):
+        """버티컬 데이터 분석 및 특화 모델 Fine-Tuning을 통한 검색 성능 고도화."""
         ...
 
     def current_quest(self):
@@ -46,7 +40,7 @@ class WontaeKim:
         ]
 
     def side_quest(self):
-        return "DevOps & Cloud Infra — 업무 적용 및 production에서 경험 확장 중"
+        return "Cloud Infra & DevOps — 컨테이너 배포, IaC, Observability를 업무에 직접 적용하며 영역 확장 중"
 ```
 
 ---
