@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Wontae%20Kim&fontSize=36&fontColor=C9D1D9&fontAlignY=50&desc=AI%20Engineer%20%26%20Agent%20Builder&descSize=14&descColor=8B949E&descAlignY=75&animation=fadeIn" width="100%" />
+# Wontae Kim
+**AI Engineer & Agent Builder**
 
 </div>
 
@@ -21,7 +22,7 @@ class WontaeKim:
         ]
 
     def side_quest(self):
-        return "DevOps & Cloud Infra — 업무에 적용하며 실전 경험 확장 중"
+        return "DevOps & Cloud Infra — 업무 적용 및 production에서 경험 확장 중"
 ```
 
 <br/>
@@ -64,10 +65,6 @@ class WontaeKim:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WontaeKim89/WontaeKim89/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WontaeKim89/WontaeKim89/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/WontaeKim89/WontaeKim89/output/github-snake-dark.svg" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=1" width="100%" />
 
 </div>
