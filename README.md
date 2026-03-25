@@ -25,7 +25,7 @@ class WontaeKim:
 
     def build_agents(self, domain: str):
         """도메인 요구사항에 맞는 Multi-Agent 시스템을 설계하고 운영합니다.
-        보험, ERP, 코드생성 등 다양한 도메인에서 production 경험."""
+        금융, ERP, 보험, 코드생성 등 다양한 도메인에서 Production 경험."""
         ...
 
     def optimize_retrieval(self, domain_data):
@@ -47,6 +47,8 @@ class WontaeKim:
 
 <h4>Things I work with</h4>
 
+**AI & Backend**
+
 <p>
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=langchain" />
@@ -54,6 +56,11 @@ class WontaeKim:
   <img src="https://img.shields.io/badge/-OpenAI-05122A?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=pytorch" />
   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=fastapi" />
+</p>
+
+**Cloud & Infra**
+
+<p>
   <img src="https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux" />
