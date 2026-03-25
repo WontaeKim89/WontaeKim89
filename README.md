@@ -40,7 +40,7 @@ class WontaeKim:
         ]
 
     def side_quest(self):
-        return "Cloud Infra & DevOps — 컨테이너 배포, IaC, Observability를 업무에 직접 적용하며 영역 확장 중"
+        return "Cloud Infra & DevOps — Production 환경에서 컨테이너 배포, IaC, Observability를 적용하며 커버리지 확장 중"
 ```
 
 ---
