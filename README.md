@@ -1,8 +1,20 @@
-<div align="center">
+<h3 align="center">
+  Hi there, I'm <a href="https://familia-89.tistory.com/">Wontae</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Wontae%20Kim&fontSize=40&fontColor=C9D1D9&fontAlignY=35&desc=AI%20Engineer%20and%20Agent%20Builder&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+<p align="center">
+  <em>AI Engineer & Agent Builder @ <b>KT</b> · Seoul</em>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/%EC%9B%90%ED%83%9C-%EA%B9%80-641945245/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://familia-89.tistory.com/"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" /></a>
+  <a href="mailto:zzang891014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=WontaeKim89&style=flat-square&color=grey" />
+</p>
+
+---
 
 ```python
 class WontaeKim:
@@ -24,42 +36,21 @@ class WontaeKim:
         return "DevOps & Cloud Infra — 업무 적용 및 production에서 경험 확장 중"
 ```
 
-<br/>
-
-<div align="center">
-
-`AI & Frameworks`
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
-![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langchain)&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-
-`Cloud & Infra`
-
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078D4)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-</div>
-
-<br/>
-
 ---
 
-<br/>
+<h4>Things I work with</h4>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WontaeKim89&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+<p>
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=langchain" />
+  <img src="https://img.shields.io/badge/-LangGraph-05122A?style=flat-square&logo=langchain" />
+  <img src="https://img.shields.io/badge/-OpenAI-05122A?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat-square&logo=terraform" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-05122A?style=flat-square&logo=githubactions" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git" />
+</p>
