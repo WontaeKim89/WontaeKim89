@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Wontae%20Kim&fontSize=36&fontColor=C9D1D9&fontAlignY=50&desc=AI%20Engineer%20%C2%B7%20Seoul&descSize=14&descColor=8B949E&descAlignY=75&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Wontae%20Kim&fontSize=36&fontColor=C9D1D9&fontAlignY=50&desc=AI%20Engineer%20%26%20Agent%20Builder&descSize=14&descColor=8B949E&descAlignY=75&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -15,13 +15,13 @@ class WontaeKim:
 
     def current_quest(self):
         return [
-            "LLM Agent 파이프라인 설계",
-            "RAG + Embedding 최적화",
-            "Azure 위에서 Private AI 서비스 굴리기",
+            "도메인 특화 LLM Agent 파이프라인 설계 및 개발",
+            "Azure Cloud 기반 AI 서비스 백엔드 아키텍처 구축",
+            "Private 환경에서의 Enterprise Agent 서비스 구축 및 운영",
         ]
 
     def side_quest(self):
-        return "DevOps & Cloud Infra 독학 중"
+        return "DevOps & Cloud Infra — 업무에 적용하며 실전 경험 확장 중"
 ```
 
 <br/>
