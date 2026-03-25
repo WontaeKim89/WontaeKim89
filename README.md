@@ -20,16 +20,35 @@
 class WontaeKim:
     """AI Engineer who builds things that think."""
 
-    def __init__(self):
-        self.role = "AI Engineer @ KT"
-        self.location = "Seoul, Korea"
-        self.daily_tools = ["Python", "LangGraph", "Azure"]
+    role      = "AI Engineer @ KT"
+    location  = "Seoul, Korea"
+
+    agent_patterns = [
+        "Supervisor + Tool Calling",
+        "Plan-and-Execute with Replan",
+        "Supervisor ReAct + Sub-Agent Delegation",
+        "Orchestrator + Dynamic Agent Factory + LLM Pool",
+    ]
+
+    rag_experience = {
+        "hybrid_search":  "BM25 + Vector (FAISS, Azure AI Search)",
+        "tool_rag":       "LLM 생성 예시로 Tool을 벡터 검색하는 독자 패턴",
+        "custom_embedding": "RoBERTa + LoRA Fine-Tuning (한국어 도메인 특화)",
+        "reranking":      "Score Normalization + Reranking Pipeline",
+    }
+
+    infra = {
+        "cloud":      "Azure (OpenAI, CosmosDB, AI Search, Container Apps)",
+        "container":  "Docker Multi-stage + nginx + supervisord",
+        "observability": ["Langfuse", "Arize Phoenix", "Elastic APM"],
+        "deploy":     "Private VNet 환경 IaC 기반 배포",
+    }
 
     def current_quest(self):
         return [
-            "도메인 특화 LLM Agent 파이프라인 설계 및 개발",
+            "도메인 특화 Multi-Agent 오케스트레이션 설계",
             "Azure Cloud 기반 AI 서비스 백엔드 아키텍처 구축",
-            "Private 환경에서의 Enterprise Agent 서비스 구축 및 운영",
+            "Private 환경에서의 Enterprise Agent 서비스 운영",
         ]
 
     def side_quest(self):
