@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=120&section=header&text=Wontae%20Kim&fontSize=40&fontColor=C9D1D9&fontAlignY=40&desc=AI%20Engineer%20%26%20Agent%20Builder&descSize=16&descColor=8B949E&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Wontae%20Kim&fontSize=40&fontColor=C9D1D9&fontAlignY=35&desc=AI%20Engineer%20and%20Agent%20Builder&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -56,14 +56,10 @@ class WontaeKim:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WontaeKim89&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WontaeKim89&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=1" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
