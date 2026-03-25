@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=A9FEF7&center=true&vCenter=true&random=false&width=450&height=50&lines=%3E_+Hello+World" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Wontae%20Kim&fontSize=36&fontColor=C9D1D9&fontAlignY=50&desc=AI%20Engineer%20%C2%B7%20Seoul&descSize=14&descColor=8B949E&descAlignY=75&animation=fadeIn" width="100%" />
 
 </div>
-
-<br/>
 
 ```python
 class WontaeKim:
@@ -48,6 +42,8 @@ class WontaeKim:
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078D4)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 </div>
@@ -90,15 +86,3 @@ class WontaeKim:
 </picture>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
