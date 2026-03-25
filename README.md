@@ -52,24 +52,23 @@ class WontaeKim:
 
 ---
 
-<div align="center">
+<br/>
 
-#### `pinned`
+> *"좋은 에이전트는 도구를 잘 쓰는 게 아니라, 언제 어떤 도구를 꺼낼지 아는 것."*
 
-<a href="https://github.com/WontaeKim89/quick_agent_poc">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=quick_agent_poc&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/WontaeKim89/embedding_SimCSE_LoRA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=embedding_SimCSE_LoRA&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/WontaeKim89/llama3_langchain_FunctionCall">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=llama3_langchain_FunctionCall&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/WontaeKim89/redis_with_rag_hybridsearch">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=redis_with_rag_hybridsearch&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
+<br/>
 
-</div>
+<details>
+<summary>&nbsp;<b>things i care about</b></summary>
+
+<br/>
+
+- **Agent Architecture** — 단순 프롬프트 체이닝이 아닌, 상태 기반 그래프로 설계하는 것
+- **Retrieval Quality** — 검색 정확도가 곧 답변 품질. Embedding과 Chunking에 집착하는 편
+- **Private AI** — 퍼블릭 API에 의존하지 않는, 기업 환경에 맞는 AI 서비스 구축
+- **Infrastructure as Code** — 클릭 한 번이 아니라 코드 한 줄로 인프라를 다루고 싶음
+
+</details>
 
 <br/>
 
