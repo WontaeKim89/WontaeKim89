@@ -24,27 +24,27 @@ class WontaeKim:
     location = "Seoul, Korea"
 
     def build_agents(self, domain: str):
-        """도메인 요구사항에 맞는 Multi-Agent 시스템을 설계하고 운영합니다.
-        금융, ERP, 보험, 코드생성 등 다양한 도메인에서 Production 경험."""
+        """도메인 요구사항에 맞는 Multi-Agent 시스템 설계 및 운영
+        금융, ERP, 보험, 코드생성 등 다양한 도메인의 Production 개발"""
         ...
 
     def optimize_retrieval(self, domain_data):
-        """버티컬 데이터 분석 및 특화 모델 Fine-Tuning을 통한 검색 성능 고도화."""
+        """도메인 데이터 분석 및 특화 모델 Fine-Tuning을 통한 Agent 성능 고도화"""
         ...
 
     def ship(self, env="private"):
-        """컨테이너 기반 CI/CD 파이프라인 구성 및 배포."""
+        """컨테이너 기반 CI/CD 파이프라인 구성 및 배포"""
         ...
 
     def current_quest(self):
         return [
             "도메인 특화 Multi-Agent 오케스트레이션 설계",
-            "Azure Cloud 기반 AI 서비스 백엔드 아키텍처 구축",
-            "Private 환경에서의 Enterprise Agent 서비스 운영",
+            "Azure 기반 AI 서비스 백엔드 아키텍처 구축",
+            "Private 환경 기반 Enterprise Agent 서비스 개발",
         ]
 
     def side_quest(self):
-        return "Cloud Infra & DevOps — Production 환경에서 IaC, Observability를 적용하며 커버리지 확장 중"
+        return "Cloud Infra & DevOps — Production 환경에서 IaC, Observability 적용을 통한 커버리지 확장"
 ```
 
 ---
