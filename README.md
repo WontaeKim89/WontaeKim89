@@ -20,7 +20,7 @@
 class WontaeKim:
     """AI Engineer who builds things that think."""
 
-    role     = "AI Engineer @ KT"
+    role     = "AI Engineer @ Agent Builder"
     location = "Seoul, Korea"
 
     def build_agents(self, domain: str):
