@@ -31,14 +31,15 @@
 - ✉️ zzang891014@gmail.com
 - ✉️ zzang9680@naver.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/%EC%9B%90%ED%83%9C-%EA%B9%80-641945245/)
+- 📝 [Blog](https://familia-89.tistory.com/)
 
 ---
 
 ## Careers.
 
-- [KT](https://www.kt.com/) AI Engineer (2025.04 - Present)
+- **[KT](https://www.kt.com/) AI Engineer (2025.04 - Present)**
   - Insurance Sales Assistant Agent — Multi-Agent for sales support (6 mos)
-- [Douzone](https://www.douzone.com/intro/company.jsp) AI Engineer (2019.10 - 2025.04 · 5 yrs 7 mos)
+- **[Douzone](https://www.douzone.com/intro/company.jsp) AI Engineer (2019.10 - 2025.04 · 5 yrs 7 mos)**
   - [OneAI](https://www.douzone.com/product/oneai.jsp) — ERP/Groupware AI assistant with RAG-based automation (1 yr 6 mos)
   - ERP Accounting Code Prediction — ML model dev, MLOps, and production ops (1 yr)
 
