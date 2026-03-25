@@ -56,9 +56,11 @@ class WontaeKim:
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WontaeKim89&bg_color=00000000&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF15&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=WontaeKim89&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
