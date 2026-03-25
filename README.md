@@ -1,161 +1,117 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Wontae%20Kim&fontSize=50&fontColor=58A6FF&fontAlignY=35&desc=AI%20Engineer%20%40%20KT&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=70&lines=Building+Intelligent+Agents+with+LLM;Designing+RAG+Pipelines+on+Azure+Cloud" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-WontaeKim89-181717?style=flat&logo=github&logoColor=white)](https://github.com/WontaeKim89)
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=A9FEF7&center=true&vCenter=true&random=false&width=500&height=45&lines=AI+Engineer+%40+KT;LLM+Agent+Builder;RAG+%26+Embedding+Specialist" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/WontaeKim89">
+  <img src="https://img.shields.io/badge/-WontaeKim89-05122A?style=flat&logo=github" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=WontaeKim89&color=2bbc8a&style=flat&label=visitors" />
 
 </div>
 
 <br/>
 
-## `$ whoami`
+### `> cat about.yaml`
 
 ```yaml
 name: Wontae Kim
 role: AI Engineer @ KT
-focus:
-  - LLM Agent 설계 및 개발
+location: Seoul, Korea
+
+what_i_do:
+  - LLM 기반 Agent 설계 및 개발 (LangGraph)
   - RAG Pipeline 구축 및 Embedding 최적화
   - Azure 기반 Private AI 서비스 아키텍처
-learning:
+
+currently_learning:
   - Cloud Infrastructure & DevOps
   - CI/CD Pipeline 자동화
+  - Container Orchestration
 ```
 
-<br/>
+---
 
-## Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="160">
 
-**Language**
+**AI & Frameworks**\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langchain)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
-<br/>
+**Cloud & Infra**\
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078D4)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-<br/>
-<sub>Python</sub>
+</div>
 
-</td>
-<td align="center" width="160">
+---
 
-**AI / ML**
+### 📊 GitHub Analytics
 
-<br/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
-<br/>
-<sub>PyTorch</sub>
-
-</td>
-<td align="center" width="160">
-
-**Cloud**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" />
-<br/>
-<sub>Azure</sub>
-
-</td>
-<td align="center" width="160">
-
-**Container**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-<br/>
-<sub>Docker</sub>
-
-</td>
-<td align="center" width="160">
-
-**OS**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-<br/>
-<sub>Linux</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WontaeKim89&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WontaeKim89&theme=radical&hide_border=true&background=0D1117" />
 
 </div>
 
 <br/>
 
-## GitHub Stats
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=WontaeKim89&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WontaeKim89&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WontaeKim89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
-<div align="center">
+---
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WontaeKim89&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<br/>
-
-## Featured Repositories
+### 📌 Featured Repositories
 
 <div align="center">
 
 <a href="https://github.com/WontaeKim89/quick_agent_poc">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=quick_agent_poc&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=quick_agent_poc&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/WontaeKim89/embedding_SimCSE_LoRA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=embedding_SimCSE_LoRA&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=embedding_SimCSE_LoRA&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/WontaeKim89/llama3_langchain_FunctionCall">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=llama3_langchain_FunctionCall&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=llama3_langchain_FunctionCall&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/WontaeKim89/redis_with_rag_hybridsearch">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=redis_with_rag_hybridsearch&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=WontaeKim89&repo=redis_with_rag_hybridsearch&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
 
-<br/>
+---
 
-## Activity
+### 📈 Contribution
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WontaeKim89&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WontaeKim89&bg_color=0D1117&color=A9FEF7&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true" />
 
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
 
 <picture>
@@ -166,5 +122,4 @@ learning:
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
