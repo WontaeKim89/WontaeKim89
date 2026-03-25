@@ -54,27 +54,11 @@ class WontaeKim:
 
 <br/>
 
-> *"좋은 에이전트는 도구를 잘 쓰는 게 아니라, 언제 어떤 도구를 꺼낼지 아는 것."*
+<div align="center">
 
-<br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WontaeKim89&bg_color=00000000&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF15&hide_border=true" />
 
-<details>
-<summary>&nbsp;<b>things i care about</b></summary>
-
-<br/>
-
-- **Agent Architecture** — 단순 프롬프트 체이닝이 아닌, 상태 기반 그래프로 설계하는 것
-- **Retrieval Quality** — 검색 정확도가 곧 답변 품질. Embedding과 Chunking에 집착하는 편
-- **Private AI** — 퍼블릭 API에 의존하지 않는, 기업 환경에 맞는 AI 서비스 구축
-- **Infrastructure as Code** — 클릭 한 번이 아니라 코드 한 줄로 인프라를 다루고 싶음
-
-</details>
-
-<br/>
-
----
-
-<br/>
+</div>
 
 <div align="center">
 
