@@ -20,29 +20,23 @@
 class WontaeKim:
     """AI Engineer who builds things that think."""
 
-    role      = "AI Engineer @ KT"
-    location  = "Seoul, Korea"
+    role     = "AI Engineer @ KT"
+    location = "Seoul, Korea"
 
-    agent_patterns = [
-        "Supervisor + Tool Calling",
-        "Plan-and-Execute with Replan",
-        "Supervisor ReAct + Sub-Agent Delegation",
-        "Orchestrator + Dynamic Agent Factory + LLM Pool",
-    ]
+    def build_agents(self, domain: str):
+        """도메인 요구사항에 맞는 Multi-Agent 시스템을 설계하고 운영합니다.
+        보험, ERP, 코드생성 등 다양한 도메인에서 production 경험."""
+        ...
 
-    rag_experience = {
-        "hybrid_search":  "BM25 + Vector (FAISS, Azure AI Search)",
-        "tool_rag":       "LLM 생성 예시로 Tool을 벡터 검색하는 독자 패턴",
-        "custom_embedding": "RoBERTa + LoRA Fine-Tuning (한국어 도메인 특화)",
-        "reranking":      "Score Normalization + Reranking Pipeline",
-    }
+    def build_rag(self, retriever: str, embedding_model=None):
+        """Hybrid Search, Custom Embedding(LoRA), Tool RAG 등
+        도메인 특성에 따라 검색 전략을 직접 설계합니다."""
+        ...
 
-    infra = {
-        "cloud":      "Azure (OpenAI, CosmosDB, AI Search, Container Apps)",
-        "container":  "Docker Multi-stage + nginx + supervisord",
-        "observability": ["Langfuse", "Arize Phoenix", "Elastic APM"],
-        "deploy":     "Private VNet 환경 IaC 기반 배포",
-    }
+    def deploy(self, env="private"):
+        """Azure 리소스를 조합한 Private VNet 환경 구축부터
+        컨테이너 패키징, IaC, Observability 세팅까지 직접 수행합니다."""
+        ...
 
     def current_quest(self):
         return [
