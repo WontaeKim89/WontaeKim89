@@ -1,7 +1,6 @@
 <div align="center">
 
-# Wontae Kim
-**AI Engineer & Agent Builder**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=120&section=header&text=Wontae%20Kim&fontSize=40&fontColor=C9D1D9&fontAlignY=40&desc=AI%20Engineer%20%26%20Agent%20Builder&descSize=16&descColor=8B949E&descAlignY=70" width="100%" />
 
 </div>
 
