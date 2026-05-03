@@ -38,7 +38,11 @@
 ## Careers.
 
 - **[KT](https://www.kt.com/) AI Engineer (2025.04 - Present)**
-  - Insurance Sales Assistant Agent — Multi-Agent for sales support (6 mos)
+  - Building LLM-based agent systems on Azure Cloud in private (financial closed-network) environments.
+    - Hanwha General Insurance — Next-Gen Insurance Planning System, AI Agent Module (2026.04 - 2026.12, ongoing)
+      - Developing AI agent module within the next-generation insurance planning platform. Own Azure-based multi-agent architecture, data pipeline, backend, and CI/CD in a financial closed-network environment.
+    - Meritz Fire & Marine — AI Sales Assistant Agent (2025.06 - 2025.12, 6 mos)
+      - Developed AI agent system supporting insurance sales operations. Owned Azure-based multi-agent architecture, data pipeline, backend, and CI/CD in a financial closed-network environment.
 - **[Douzone](https://www.douzone.com/intro/company.jsp) AI Engineer (2019.10 - 2025.04 · 5 yrs 7 mos)**
   - [OneAI](https://www.douzone.com/product/oneai.jsp) — ERP/Groupware AI assistant with RAG-based automation (1 yr 6 mos)
   - ERP Accounting Code Prediction — ML model dev, MLOps, and production ops (1 yr)
