@@ -51,7 +51,7 @@ Building LLM-based agent systems on Azure Cloud in private (financial closed-net
 Built ERP-data-driven AI assistant agents in production, orchestrating 400+ function-calling tools for 1,000+ enterprise customers.
 
 - [**OneAI**](https://www.douzone.com/event/240610/oneai.jsp) — ERP/Groupware AI assistant with RAG-based automation · `1 yr 6 mos`
-- **ERP Accounting Code Prediction** — ML model dev · MLOps · production ops · `1 yr`
+- **Enterprise ERP Accounting & Tax ML** — Developed and operated ML models for accounting/tax automation on enterprise ERP data · MLOps · production ops · `5 yrs`
 
 ---
 
